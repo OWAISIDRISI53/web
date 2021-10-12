@@ -1,0 +1,207 @@
+      /* CREATED BY OWAIS IDRISI */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+
+body {
+  background: lightcoral;
+  font-family: 'Noto Sans Mono', monospace;
+}
+
+header {
+  font-size: 1.6rem;
+  background: skyblue;
+  padding: 12px;
+}
+
+header h1 {
+  text-align: center;
+  color: tomato;
+  text-transform: uppercase;
+}
+
+
+.nav {
+  display: flex;
+  background-color: black;
+   
+}
+
+.nav li {
+  list-style: none;
+  padding: 12px;
+  
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.main1 {
+  display: flex;
+  justify-content: center;
+}
+
+.main1 .sec1 {
+  width: 250px;
+  height: 100%;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.main1 .sec1 img {
+  width: 100%;
+  height: 250px;
+
+}
+
+.main1 .sec1 h1 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: 'Noto Sans Mono', monospace;
+}
+
+.main1 .sec1 p {
+  color: white;
+  text-align: center;
+
+}
+
+.main1 button {
+  padding: 12px 55px 12px 55px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: grey;
+}
+
+
+
+  /* section 2  */
+
+  .main2 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+
+  }
+
+  .main2 .sec2 {
+    width: 250px;
+    height: 100%;
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+  .main2 .sec2 img {
+    width: 100%;
+    height: 250px;
+  }
+
+  .main2 .sec2 h1 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Noto Sans Mono', monospace;
+  }
+
+  .main2 .sec2 p {
+    color: white;
+    text-align: center;
+
+  }
+  .main2 button {
+  padding: 12px 55px 12px 55px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: grey;
+}
+
+
+       /* section 3  */
+.main3 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+
+  }
+
+  .main3 .sec3 {
+    width: 250px;
+    height: 100%;
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+  .main3 .sec3 img {
+    width: 100%;
+    height: 250px;
+  }
+
+  .main3 .sec3 h1 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Noto Sans Mono', monospace;
+  }
+
+  .main3 .sec3 p {
+    color: white;
+    text-align: center;
+
+  }
+  .main3 button {
+  padding: 12px 55px 12px 55px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: grey;
+}
+
+
+
+
+
+/* section 3  */
+.main4 {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+
+}
+
+.main4 .sec4 {
+  width: 250px;
+  height: 100%;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.main4 .sec4 img {
+  width: 100%;
+  height: 250px;
+}
+
+.main4 .sec4 h1 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: 'Noto Sans Mono', monospace;
+}
+
+.main4 .sec4 p {
+  color: white;
+  text-align: center;
+
+}
+
+.main4 button {
+  padding: 12px 55px 12px 55px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: grey;
+}
